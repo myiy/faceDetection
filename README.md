@@ -28,15 +28,23 @@
   
   <img width="991" alt="image" src="https://github.com/user-attachments/assets/2d19c5ce-0dc8-4cd9-bdc0-19b69f2c1c6c">
 
+  
+
   2.修改face_cpmpare_python3_demo.py文件的appid、apisecret、apikey
   
   <img width="948" alt="image" src="https://github.com/user-attachments/assets/1f05885c-382d-42a3-827e-311bed33ffaf">
+  
+
 
   3.在images/users下面添加志愿者的照片，格式为.jpg
+
+  
   
   4.修改users.json，和images/users下照片命名一致
   
-  <img width="987" alt="image" src="https://github.com/user-attachments/assets/ce812344-2a91-4d43-b430-1a39e960425e">
+  <img width="926" alt="image" src="https://github.com/user-attachments/assets/73d95d3c-f705-4d77-b97e-1fe0ade458a3">
+
+
 
   5.采用的是外接摄像头形式，直接运行FaceDetection.py即可，第一次运行的时候会有点慢，有语音包的生成。
 
